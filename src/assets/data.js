@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "Which command initializes a new Git repository?",
+      option1: "git start",
+      option2: "git init",
+      option3: "git new",
+      option4: "git create",
+      ans: 2,
+    },
+    {
+      question: "Which command stages all changes in Git?",
+      option1: "add .",
+      option2: "git commit -m",
+      option3: "git push",
+      option4: "git stage all",
+      ans: 1,
+    },
+    {
+      question: "What is the default branch name in GitHub (as of 2025)?",
+      option1: "master",
+      option2: "main",
+      option3: "trunk",
+      option4: "base",
+      ans: 2,
+    },
+    {
+      question: "Which command shows the commit history in Git?",
+      option1: "git status",
+      option2: "git log",
+      option3: "git show",
+      option4: "git history",
+      ans: 2,
+    },
+    {
+      question: "Which Git command is used to upload local commits to a remote repo?",
+      option1: "git fetch",
+      option2: "git push",
+      option3: "git merge",
+      option4: "git upload",
+      ans: 2,
+    },
+  ];
