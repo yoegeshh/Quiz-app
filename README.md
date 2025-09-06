@@ -25,7 +25,7 @@ The app presents multiple-choice questions with four options each. It keeps trac
 
 | Quiz Question | Final Score |
 |---------------|-------------|
-| ![Question Screenshot](./assets/question.png) | ![Score Screenshot](./assets/score.png) |
+| ![Question Screenshot](./public/question.png) | ![Score Screenshot](./public/score.png) |
 
 ---
 
