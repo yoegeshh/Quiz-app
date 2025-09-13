@@ -1,4 +1,4 @@
-# 📝 Quiz App https://yoegeshh.github.io/Quiz-app/
+# 📝 Quiz App 
 
 A simple and interactive **Quiz Application** built using **React.js, HTML, and CSS**.  
 The app presents multiple-choice questions with four options each. It keeps track of the user’s score and shows the correct answer when a wrong option is selected.  
@@ -27,6 +27,7 @@ The app presents multiple-choice questions with four options each. It keeps trac
 |---------------|-------------|
 | ![Question Screenshot](./public/question.png) | ![Score Screenshot](./public/score.png) |
 
+Project live: https://yoegeshh.github.io/Quiz-app/
 ---
 
 ## 📂 Project Structure
